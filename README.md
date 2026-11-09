@@ -1,4 +1,4 @@
-## 📁 Project Structure
+## 📁 Project File Structure
 
 ```text
 FraudNexa-Indian-Banking-Fraud-Detection/
